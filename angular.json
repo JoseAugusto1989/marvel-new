@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "marvel-new"
+  "defaultProject": "marvel-new",
+  "cli": {
+    "analytics": "7b47c147-588a-4018-850b-68a99a4bde8c"
+  }
 }
